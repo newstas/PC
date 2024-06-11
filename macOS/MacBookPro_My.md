@@ -9,7 +9,7 @@
 
 ## Инфолрмация о системе (текущая)
 
-macOS High Sierra Версия: 10.13.6 (17G14042)
+macOS High Sierra Версия 10.13.6 (17G14042)
 MacBook Pro (13-inch, Late 2011)
 Процессор 2,4 GHz Intel Core i5
 Память 8 ГБ 1333 MHz DDR3

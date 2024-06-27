@@ -4,11 +4,11 @@
 
 ### Для Windows:
 
-`Ctrl + K`= [Ссылка](#)
+`Ctrl + K`= [Ссылка](#) (URL)
 
-`Ctrl + B` = **Жирный**
+`Ctrl + B` = **Жирный** (Bold)
 
-`Ctrl + I` = *Курсив*
+`Ctrl + I` = *Курсив* (Italic)
 
 `Ctrl + U` = Подчеркнутый (underline)\*
     
@@ -22,11 +22,11 @@ Ctrl + Shift + P` = Скрытый текст (спойлер)
 
 ### Для macOS:
 
-`Cmd + U` = [Ссылка](#)
+`Cmd + U` = [Ссылка](#) (URL)
 
-`Cmd + B` = **Жирный**
+`Cmd + B` = **Жирный** (Bold)
 
-`Cmd + I` = *Курсив*
+`Cmd + I` = *Курсив* (Italic)
 
 `Cmd + Shift + U` = Подчеркнутый (underline)\*
 

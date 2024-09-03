@@ -1,5 +1,17 @@
 [Таблица сочетания шрифтов](https://pomelnikov.com/images/Uroki/Font-pairs/Font-pairs-Pomelnikov.pdf)
 
+# Шрифты в системах MS Windows
+
+В системах MS Windows обычно используется несколько шрифтов, поставляемых вместе с системой – это:
+- Arial
+- Courier New
+- Comic Sans
+- Times New Roman
+- Verdana
+- Tahoma
+
+Каждый из этих шрифтов уместен в своем дизайне и стиле. Наиболее распространен – Ариал. Каждый шрифт – это самостоятельный файл в папке ˜Windows/fonts/ *.ttf˜
+
 # Шрифты для сайта
 
 ## Montserrat

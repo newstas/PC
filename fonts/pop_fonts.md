@@ -8,7 +8,7 @@
 **для небольших текстов**, привносит разнообразие по сравнению с традиционными шрифтами.
 Следует иметь в виду, что в случае **больших текстов потребуется гораздо больше места**.
 — *google fonts*
-{Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=Montserrat)
+[Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=Montserrat)
 
 
 Похожие шрифты:

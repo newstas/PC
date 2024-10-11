@@ -2,6 +2,8 @@
 
 [Сравнение семейств шрифтов от W3C](https://www.w3.org/Style/Examples/007/fonts.ru.html)
 
+[17 лучших Google шрифтов](https://hostenko.com/wpcafe/tutorials/17-luchshih-google-shriftov-i-kak-ih-ispolzovat-v-wordpress/)
+
 # Шрифты в системах MS Windows
 
 В системах MS Windows обычно используется несколько шрифтов, поставляемых вместе с системой – это:

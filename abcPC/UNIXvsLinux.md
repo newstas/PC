@@ -19,4 +19,4 @@ Unix - разработана Bell Labs в 1970 году, идея Кена То
 Есть множество запатентованных Unix-подобий, таких, как: AIX, HP-UX, IRIX, macOS, LynxOS, QNX, SCO OpenServer, Solaris, 
 Tru64 UNIX, UnixWare, Xenix и VxWorks. 
 
-![Unix-подобные операционные систеыъ](https://ru.wikipedia.org/wiki/Unix-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Unix_history-simple.ru.svg)
+![Unix-подобные операционные систеыъ]([https://ru.wikipedia.org/wiki/Unix-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Unix_history-simple.ru.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Unix_history-simple.ru.svg/800px-Unix_history-simple.ru.svg.png?20230721015314))

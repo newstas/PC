@@ -14,6 +14,8 @@ Speccy - https://www.ccleaner.com/speccy
 
 CCleaner - https://www.ccleaner.com/ru-ru/ccleaner/download
 
+CrystalDiskMark – Crystal Dew World
+
 
 ## Проверка и Восстановление системных файлов
 

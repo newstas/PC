@@ -7,9 +7,11 @@
 ## Производительность компьютера soft
 
 CPU-Z - https://www.cpuid.com/softwares/cpu-z.html#version-history
+
 CPU-Z - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, кэше и материнской плате. Разработчик: CPUID.
 
 Speccy - https://www.ccleaner.com/speccy
+
 CCleaner - https://www.ccleaner.com/ru-ru/ccleaner/download
 
 

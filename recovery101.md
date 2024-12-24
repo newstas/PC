@@ -42,13 +42,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ## Производительность компьютера soft
 
-CPU-Z - https://www.cpuid.com/softwares/cpu-z.html#version-history
+**CPU-Z** - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, 
+кэше и материнской плате. Разработчик: CPUID. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 
-CPU-Z - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, кэше и материнской плате. Разработчик: CPUID.
+**GPU-Z** — утилита предоставляет все данные по видеокарте [GPU-Z](https://www.techpowerup.com/gpuz/)
 
-Speccy - https://www.ccleaner.com/speccy
+**HWinfo** — программа рассказывает о компьютере всё, что только возможно. Информация разделена по трём пунктам: системная, 
+полный отчёт и мониторинг датчиков. [HWinfo](https://www.hwinfo.com/)
 
-CCleaner - https://www.ccleaner.com/ru-ru/ccleaner/download
+##HWMonitor** — позволит узнать температуру, скорость вентиляторов, напряжение. 
+
 
 CrystalDiskMark – Crystal Dew World
 

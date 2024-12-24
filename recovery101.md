@@ -35,7 +35,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ## Скачать Windows 10 (ISO-файл)
 
-[Скачать образ диска Windows 10 (ISO-файл)](https://www.microsoft.com/ru-ru/software-download/windows10ISO)
+[Скачать образ диска Windows 10 (ISO-файл) — сайт Microsoft](https://www.microsoft.com/ru-ru/software-download/windows10ISO)
+
+[Cкачать Windows 10 ISO — 5 способов](https://remontka.pro/download-windows-10-iso-microsoft/#microsoft)
 
 
 ## Производительность компьютера soft

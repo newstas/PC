@@ -124,7 +124,7 @@ dism /Online /Cleanup-Image /RestoreHealth
 > Примечание:
 > 
 > в случае, если команда восстановления хранилища компонентов не работает по той или иной причине, вы можете использовать
-> файл install.wim (или esd) со смонтированного ISO образа Windows 10 [Как скачать Windows 10 ISO с сайта Microsoft](https://remontka.pro/download-windows-10-iso-microsoft/) в качестве источника файлов, требующих восстановления (содержимое образа должно соответствовать установленной системе). Сделать это можно с помощью команды:
+> файл install.wim (или esd) со смонтированного ISO образа Windows 10 [Cкачать Windows 10 ISO](https://remontka.pro/download-windows-10-iso-microsoft/) в качестве источника файлов, требующих восстановления (содержимое образа должно соответствовать установленной системе). Сделать это можно с помощью команды:
 ```
 dism /Online /Cleanup-Image /RestoreHealth /Source:wim:путь_к_файлу_wim:1 /limitaccess
 ```

@@ -33,7 +33,25 @@ DISM /Online /Cleanup-Image /RestoreHealth
 [SFC и DISM](https://mywebpc.ru/windows/recovery-of-system-files-in-windows/)
 
 
-## CHKDSK
+## Скачать Windows 10 (ISO-файл)
+
+[Скачать образ диска Windows 10 (ISO-файл)](https://www.microsoft.com/ru-ru/software-download/windows10ISO)
+
+
+## Производительность компьютера soft
+
+CPU-Z - https://www.cpuid.com/softwares/cpu-z.html#version-history
+
+CPU-Z - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, кэше и материнской плате. Разработчик: CPUID.
+
+Speccy - https://www.ccleaner.com/speccy
+
+CCleaner - https://www.ccleaner.com/ru-ru/ccleaner/download
+
+CrystalDiskMark – Crystal Dew World
+
+
+## CHKDSK.exe
 
 ```
 chkdsk C: /f /r
@@ -121,19 +139,4 @@ DISM.exe /Online /Cleanup-Image /RestoreHealth /Source:C:\RepairSource\Windows /
 > вместо заполнителя `C:\RepairSource\Windows` укажите расположение вашего источника восстановления. 
 
 
-## Скачать Windows 10 (ISO-файл)
 
-[Скачать образ диска Windows 10 (ISO-файл)](https://www.microsoft.com/ru-ru/software-download/windows10ISO)
-
-
-## Производительность компьютера soft
-
-CPU-Z - https://www.cpuid.com/softwares/cpu-z.html#version-history
-
-CPU-Z - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, кэше и материнской плате. Разработчик: CPUID.
-
-Speccy - https://www.ccleaner.com/speccy
-
-CCleaner - https://www.ccleaner.com/ru-ru/ccleaner/download
-
-CrystalDiskMark – Crystal Dew World

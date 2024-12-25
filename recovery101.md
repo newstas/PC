@@ -65,6 +65,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 **MemTest64** — утилита, которая позволяет проверять системную память на наличие проблем на аппаратном уровне.очень простая в обращении, 
 достаточно нажать на кнопку «Начать тест». Разработчик: TechPowerUp [MemTest6](https://www.techpowerup.com/download/techpowerup-memtest64/)
 
+**TreeSize Free** — выводит список всех папок и документов, сортируя их по размеру. [TreeSize Free](https://www.jam-software.com/treesize_free)
+
+**WizTree** — анализатор дискового пространства. [WizTree](https://www.diskanalyzer.com/)
+
 **UserBenchmark** (хороший поиск лучших комплектуютих онлайн) — это простая программа для тестирования компьютера и сравнения результатов с другими пользователями (не всегда работает).  [UserBenchmark](https://www.userbenchmark.com/)
 
 **FurMark** (волосатый бублик) это лучшее приложение для проверки видеокарты компьютера. Ни одна друга утилита не нагружает ГПУ так, как это делает Furmark. Быстрый графический тестOpenGL и Vulkan с онлайн-оценками. [FurMark](https://geeks3d.com/furmark/)

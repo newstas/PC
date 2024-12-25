@@ -33,6 +33,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
 [SFC и DISM](https://mywebpc.ru/windows/recovery-of-system-files-in-windows/)
 
 
+## Сведения о системе msinfo32
+
+- нажмите комбинацию клавиш <kbd>Windows</kbd> + <kbd>R</kbd>
+- в появившемся окне введите команду `msinfo32`
+
+
 ## Скачать Windows 10 (ISO-файл)
 
 [Скачать образ диска Windows 10 (ISO-файл) — сайт Microsoft](https://www.microsoft.com/ru-ru/software-download/windows10ISO)

@@ -33,7 +33,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 [SFC и DISM](https://mywebpc.ru/windows/recovery-of-system-files-in-windows/)
 
 
-## восстановление целостности реестра — scanreg /fix 
+## Восстановление целостности реестра — scanreg /fix 
 
 - нажмите комбинацию клавиш <kbd>Windows</kbd> + <kbd>R</kbd>
 - в появившемся окне введите команду `scanreg /fix`

@@ -46,6 +46,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 [Cкачать Windows 10 ISO — 5 способов](https://remontka.pro/download-windows-10-iso-microsoft/#microsoft)
 
 
+## Ninite
+
+**Ninite** — Установите и обновите все ваши программы одновременно [Ninite](https://ninite.com/)
+
+
 ## Производительность компьютера Analyse-Tool Soft
 
 Программы для полной инвентаризации и мониторинга оборудования (Complete Hardware Inventory and Monitoring)
@@ -78,8 +83,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 **UserBenchmark** (хороший поиск лучших комплектуютих онлайн) — это простая программа для тестирования компьютера и сравнения результатов с другими пользователями (не всегда работает).  [UserBenchmark](https://www.userbenchmark.com/)
 
 **FurMark** (волосатый бублик) это лучшее приложение для проверки видеокарты компьютера. Ни одна друга утилита не нагружает ГПУ так, как это делает Furmark. Быстрый графический тестOpenGL и Vulkan с онлайн-оценками. [FurMark](https://geeks3d.com/furmark/)
-
-**Ninite** — Установите и обновите все ваши программы одновременно [Ninite](https://ninite.com/)
 
 
 ## CHKDSK.exe

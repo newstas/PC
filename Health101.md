@@ -37,7 +37,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 - нажмите комбинацию клавиш <kbd>Windows</kbd> + <kbd>R</kbd>
 - в появившемся окне введите команду `msinfo32`
-
+- 
 
 ## Скачать Windows 10 (ISO-файл)
 
@@ -78,6 +78,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 **UserBenchmark** (хороший поиск лучших комплектуютих онлайн) — это простая программа для тестирования компьютера и сравнения результатов с другими пользователями (не всегда работает).  [UserBenchmark](https://www.userbenchmark.com/)
 
 **FurMark** (волосатый бублик) это лучшее приложение для проверки видеокарты компьютера. Ни одна друга утилита не нагружает ГПУ так, как это делает Furmark. Быстрый графический тестOpenGL и Vulkan с онлайн-оценками. [FurMark](https://geeks3d.com/furmark/)
+
+**Ninite** — Установите и обновите все ваши программы одновременно [Ninite](https://ninite.com/)
 
 
 ## CHKDSK.exe

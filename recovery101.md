@@ -45,7 +45,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 Программы для полной инвентаризации и мониторинга оборудования (Complete Hardware Inventory and Monitoring)
 
 **CPU-Z** - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, 
-кэше и материнской плате. Разработчик: CPUID. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+кэше и материнской плате. Создал Франк Делаттре из Франции. Разработчик: CPUID. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 
 **GPU-Z** — утилита предоставляет все данные по видеокарте. Разработчик: TechPowerUp [GPU-Z](https://www.techpowerup.com/gpuz/)
 
@@ -56,8 +56,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 **HWMonitor** — мониторинг напряжения, температуры и скорости вентиляторов. На ноутбуках MacBook, имеется приложение **smcFanControl**.
 Разработчик: CPUID [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
 
+**CrystalDiskMark** – бенчмарк для устройств хранения данных. В первую очередь чтобы узнать, как быстро происходит чтение и запись данных. От японца Noriyuki Miyazaki. [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)
 
-CrystalDiskMark – Crystal Dew World
+**CrystalDiskInfo** — утилита для диагностики работы жёстких дисков и твердотельных накопителей ПК. От японца Noriyuki Miyazaki. [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+
 
 
 ## CHKDSK.exe

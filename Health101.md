@@ -45,7 +45,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - в появившемся окне введите команду `msinfo32`
 
 
-Информация о лицензии Windows
+## Информация о лицензии Windows
 
 - **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dlv`
 - **Cmd:** <kbd>Windows</kbd> + <kbd>R</kbd> затем `cmd` далее  `slmgr –ato`

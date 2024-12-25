@@ -45,6 +45,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - в появившемся окне введите команду `msinfo32`
 
 
+Информация о лицензии Windows
+
+- **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd>  ->  `slmgr.vbs /dlv`
+- **Cmd:** <kbd>Windows</kbd> + <kbd>R</kbd> -> cmd  ->  `slmgr –ato`
+
 ## Скачать Windows 10 (ISO-файл)
 
 [Скачать образ диска Windows 10 (ISO-файл) — сайт Microsoft](https://www.microsoft.com/ru-ru/software-download/windows10ISO)

@@ -45,7 +45,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 Программы для полной инвентаризации и мониторинга оборудования (Complete Hardware Inventory and Monitoring)
 
 **CPU-Z** - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, 
-кэше и материнской плате. Создал Франк Делаттре из Франции. Разработчик: CPUID. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+кэше и материнской плате. От Франк Делаттре из Франции. Разработчик: CPUID. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 
 **GPU-Z** — утилита предоставляет все данные по видеокарте. Разработчик: TechPowerUp [GPU-Z](https://www.techpowerup.com/gpuz/)
 
@@ -60,6 +60,15 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 **CrystalDiskInfo** — утилита для диагностики работы жёстких дисков и твердотельных накопителей ПК. От японца Noriyuki Miyazaki. [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 
+OCCT (OverClock Checking Tool) — OCCT – это основной конкурент AIDA64, который также предоставляет очень подробную информацию о комплектующих и позволяет проверить их работу в стресс-тесте, дают интенсивную нагрузку на CPU, GPU или RAM. [OCCT](https://www.ocbase.com/)
+
+**MemTest64** — утилита, которая позволяет проверять системную память на наличие проблем на аппаратном уровне.очень простая в обращении, 
+достаточно нажать на кнопку «Начать тест». Разработчик: TechPowerUp [MemTest6](https://www.techpowerup.com/download/techpowerup-memtest64/)
+
+**UserBenchmark** — это простая программа для тестирования компьютера и сравнения результатов с другими пользователями. При помощи этого бенчмарка 
+можно легко выбрать лучшие комплектующие. [UserBenchmark](https://www.userbenchmark.com/)
+
+**FurMark** (волосатый бублик) это лучшее приложение для проверки видеокарты компьютера. Ни одна друга утилита не нагружает ГПУ так, как это делает Furmark. Быстрый графический тестOpenGL и Vulkan с онлайн-оценками. [FurMark](https://geeks3d.com/furmark/)
 
 
 ## CHKDSK.exe

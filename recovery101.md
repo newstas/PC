@@ -47,13 +47,14 @@ DISM /Online /Cleanup-Image /RestoreHealth
 **CPU-Z** - утилита, которая предоставит вам самую подробную информацию об установленном в системе процессоре, памяти, 
 кэше и материнской плате. Разработчик: CPUID. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 
-**GPU-Z** — утилита предоставляет все данные по видеокарте. Разработчик: YechPowerUp [GPU-Z](https://www.techpowerup.com/gpuz/)
+**GPU-Z** — утилита предоставляет все данные по видеокарте. Разработчик: TechPowerUp [GPU-Z](https://www.techpowerup.com/gpuz/)
 
 **HWinfo** (HardWareInfo) — программа для получения подробной информации о комплектующих ПК, рассказывает о компьютере всё, 
 что только возможно. Информация разделена по трём пунктам: системная, полный отчёт и мониторинг датчиков. частота кадров (FPS), 
 время отображения кадра (Frametimes) и уровень занятости графического процессора (GPU Busy) Использует NASA [HWinfo](https://www.hwinfo.com/)
 
-**HWMonitor** — позволит узнать температуру, скорость вентиляторов, напряжение. 
+**HWMonitor** — мониторинг напряжения, температуры и скорости вентиляторов. На ноутбуках MacBook, имеется приложение **smcFanControl**.
+Разработчик: CPUID [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)
 
 
 CrystalDiskMark – Crystal Dew World

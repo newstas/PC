@@ -119,6 +119,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 **FurMark** (волосатый бублик) это лучшее приложение для проверки видеокарты компьютера. Ни одна друга утилита не нагружает ГПУ так, как это делает Furmark. Быстрый графический тестOpenGL и Vulkan с онлайн-оценками. [FurMark](https://geeks3d.com/furmark/)
 
+### Дисплей
+
+[EIZO Monotor Test — онлайн](https://www.eizo.be/monitor-test/)
+
+[[Dead Pixel Tester — онлайн](http://tft.vanity.dk/) ](http://tft.vanity.dk/)
+
+[TFT Monitor Test - скачать](https://tireal.com/tfttest.php)
+
+[Другие Monitor Test](http://www.benchmarkhq.ru/russian.html?/b_monitor.html)
+
 
 ## CHKDSK.exe
 

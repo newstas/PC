@@ -121,7 +121,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ### Дисплей
 
-[EIZO Monotor Test — онлайн](https://www.eizo.be/monitor-test/) / [[Dead Pixel Tester — онлайн](http://tft.vanity.dk/) / 
+[Monitest.ru — онлайн](https://monitest.ru/) / [EIZO Monotor Test — онлайн](https://www.eizo.be/monitor-test/) / [tft.vanity.dk/](http://tft.vanity.dk/) / 
 [TFT Monitor Test - скачать](https://tireal.com/tfttest.php) / [Другие Monitor Test](http://www.benchmarkhq.ru/russian.html?/b_monitor.html)
 
 

@@ -130,6 +130,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 **GPU-Z** — утилита предоставляет все данные по видеокарте. Разработчик: TechPowerUp [GPU-Z](https://www.techpowerup.com/gpuz/)
 
+**GPU Caps Viewer** - утилита от Geeks3D для графической карты, которая тестирует ее на производительность, показывает текущую температуру 
+графического процессора, расширения **OpenGL**, информацию о поддержке OpenGL API и прочие храктеристики графической карты. 
+[GPU Caps Viewer](https://www.geeks3d.com/20240212/gpu-caps-viewer-1-63-released/)
+
+**Онлайн проверка OpenGL и WebGL** - [WebGL Caps Viewer](https://www.geeks3d.com/webgl/)) от Geeks3D и [threejs.org](https://threejs.org/examples/)
+
 **HWinfo** (HardWareInfo) — программа для получения подробной информации о комплектующих ПК, рассказывает о компьютере всё, 
 что только возможно. Информация разделена по трём пунктам: системная, полный отчёт и мониторинг датчиков. частота кадров (FPS), 
 время отображения кадра (Frametimes) и уровень занятости графического процессора (GPU Busy) Использует NASA [HWinfo](https://www.hwinfo.com/)
@@ -152,7 +158,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 **UserBenchmark** (хороший поиск лучших комплектуютих онлайн) — это простая программа для тестирования компьютера и сравнения результатов с другими пользователями (не всегда работает).  [UserBenchmark](https://www.userbenchmark.com/)
 
-**FurMark** (волосатый бублик) это лучшее приложение для проверки видеокарты компьютера. Ни одна друга утилита не нагружает ГПУ так, как это делает Furmark. Быстрый графический тестOpenGL и Vulkan с онлайн-оценками. [FurMark](https://geeks3d.com/furmark/)
+**FurMark** (волосатый бублик) это лучшее приложение для проверки видеокарты компьютера. Ни одна друга утилита не нагружает ГПУ так, как это делает Furmark. Быстрый графический тестOpenGL и Vulkan с онлайн-оценками от Geeks3D. [FurMark](https://geeks3d.com/furmark/)
 
 ### Дисплей
 

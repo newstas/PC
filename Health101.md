@@ -269,8 +269,10 @@ DISM.exe /Online /Cleanup-Image /RestoreHealth /Source:C:\RepairSource\Windows /
 - **Enterprise 2016 LTSB**             DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ   
 - **Enterprise 2016 LTSB N**           QFFDN-GRT3P-VKWWX-X7T3R-8B639 
 
-Windows 10 Enterprise N Eval Activation Key 	MNXKQ-WY2CT-JWBJ2-T68TQ-YBH2V 
-Windows 10 Enterprise S Eval Activation Key 	7TNX7-H36JG-QFF42-K4JYV-YY482 
+Версия | ключ
+---    | ---
+Windows 10 Enterprise N Eval Activation Key | MNXKQ-WY2CT-JWBJ2-T68TQ-YBH2V 
+Windows 10 Enterprise S Eval Activation Key | 7TNX7-H36JG-QFF42-K4JYV-YY482 
 Windows 10 Enterprise S N Eval Activation Key 	D3M8K-4YN49-89KYG-4F3DR-TVJW3 
 Windows 10 Enterprise Eval Activation Key 	VPMWD-PVNRR-79WJ9-VVJQC-3YH2G 
 Windows 10 Starter Activation Key 	D6RD9-D4N8T-RT9QX-YW6YT-FCWWJ 

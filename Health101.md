@@ -71,7 +71,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ## Информация о лицензии Windows
 
-SLMGR - средство управления лицензированием программного обеспечения Windows:
+**SLMGR** - средство управления лицензированием программного обеспечения Windows:
 - **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dli` - сведений о лицензии (кратко)
 - **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dlv` - подробных сведений о лицензии
    - VK7JG-NPHTM-C97JM-9MPGT-3V66T для редакции Pro,

@@ -134,8 +134,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 графического процессора, расширения **OpenGL**, информацию о поддержке OpenGL API и прочие храктеристики графической карты. 
 [GPU Caps Viewer](https://www.geeks3d.com/20240212/gpu-caps-viewer-1-63-released/)
 
-**Онлайн проверка OpenGL и WebGL** - [webgl.org](https://get.webgl.org/)? [WebGL Caps Viewer](https://www.geeks3d.com/webgl/)) от Geeks3D 
-и [threejs.org](https://threejs.org/examples/)Ю Технология WebGL основана на OpenGL ES 2.0
+**Онлайн проверка OpenGL и WebGL** - [webgl.org](https://get.webgl.org/), [WebGL Caps Viewer](https://www.geeks3d.com/webgl/) от Geeks3D 
+и [threejs.org](https://threejs.org/examples/). Технология WebGL основана на OpenGL ES 2.0
 
 **HWinfo** (HardWareInfo) — программа для получения подробной информации о комплектующих ПК, рассказывает о компьютере всё, 
 что только возможно. Информация разделена по трём пунктам: системная, полный отчёт и мониторинг датчиков. частота кадров (FPS), 

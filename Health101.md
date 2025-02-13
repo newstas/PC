@@ -100,7 +100,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 *Например: OEM Key: OEM key not present in firmware — ключ OEM не присутствует в прошивке BIOS/UEFI (Windows 7,8,10)*
 
 Посмотреть с помощью ShowKeyPlus ключ в старой версии Windows — можно в папке `Windows.old`: выберите **Retrieve key from backup** и 
-в открывшемся окне перейдите `диск С Windows - System32 - config и нажмите 2 раза открыт`.  Программа просканирует файл и покажет ключ 
+в открывшемся окне перейдите `диск С - Windows - System32 - config` и нажмите 2 раза открыт.  Программа просканирует файл и покажет ключ 
 в строке Installed Key.
  
 

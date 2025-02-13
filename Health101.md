@@ -71,8 +71,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ## Информация о лицензии Windows
 
-- **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dlv`
-- **Cmd:** <kbd>Windows</kbd> + <kbd>R</kbd> затем `cmd` далее  `slmgr /div`
+- **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dli` - сведений о лицензии (кратко)
+- **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dlv` - подробных сведений о лицензии
+
+SLMGR - средство управления лицензированием программного обеспечения Windows
 
 Например: покажет `Частичный ключ продукта: 3V66T`, ак видим, в системе уже есть ключ (3V66T), а точнее:
 

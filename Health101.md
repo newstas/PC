@@ -74,6 +74,14 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dlv`
 - **Cmd:** <kbd>Windows</kbd> + <kbd>R</kbd> затем `cmd` далее  `slmgr /div`
 
+Например: покажет «Частичный ключ продукта: 3V66T», ак видим, в системе уже есть ключ (3V66T), а точнее:
+
+- VK7JG-NPHTM-C97JM-9MPGT-3V66T для редакции Pro,
+- YTMG3-N6DKC-DKB77-7M9GH-8HVX7 для редакции Home,
+- BT79Q-G7N6G-PGBYW-4YWX6-6F4BT для Home SL.
+
+
+
 ## Скачать Windows 10 (ISO-файл)
 
 [Скачать образ диска Windows 10 (ISO-файл) — сайт Microsoft](https://www.microsoft.com/ru-ru/software-download/windows10ISO)

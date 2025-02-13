@@ -135,7 +135,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 [GPU Caps Viewer](https://www.geeks3d.com/20240212/gpu-caps-viewer-1-63-released/)
 
 **Онлайн проверка OpenGL и WebGL** - [WebGL Caps Viewer](https://www.geeks3d.com/webgl/)) от Geeks3D и [threejs.org](https://threejs.org/examples/) 
-WebGL основан на тетехнологии OpenGL ES 2.0
+Технология WebGL основана на OpenGL ES 2.0
 
 **HWinfo** (HardWareInfo) — программа для получения подробной информации о комплектующих ПК, рассказывает о компьютере всё, 
 что только возможно. Информация разделена по трём пунктам: системная, полный отчёт и мониторинг датчиков. частота кадров (FPS), 

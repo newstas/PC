@@ -74,7 +74,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /dlv`
 - **Cmd:** <kbd>Windows</kbd> + <kbd>R</kbd> затем `cmd` далее  `slmgr /div`
 
-Например: покажет «Частичный ключ продукта: 3V66T», ак видим, в системе уже есть ключ (3V66T), а точнее:
+Например: покажет `Частичный ключ продукта: 3V66T`, ак видим, в системе уже есть ключ (3V66T), а точнее:
 
 - VK7JG-NPHTM-C97JM-9MPGT-3V66T для редакции Pro,
 - YTMG3-N6DKC-DKB77-7M9GH-8HVX7 для редакции Home,

@@ -101,7 +101,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 OEM Edition должна совпадать со строкой Product Name. Если OEM Edition не совпадает со строкой Product Name - ваша система
 не активируется. Придется устанавливать именно ту версию, что указаноа в OEM Edition. 
 *Например: OEM Key: OEM key not present in firmware — ключ OEM не присутствует в прошивке BIOS/UEFI (Windows 7,8,10)*
-- **Посомтреть ключ в папаке Windows или Windows.old**Посмотреть с помощью ShowKeyPlus ключ в старой версии Windows — можно
+- **Посомтреть ключ в папаке Windows или Windows.old** Посмотреть с помощью ShowKeyPlus ключ в старой версии Windows — можно
 в папке `Windows.old`: выберите **Retrieve key from backup** и в открывшемся окне перейдите `диск С - Windows - System32 - config`
 и нажмите 2 раза открыт.  Программа просканирует файл и покажет ключ в строке Installed Key.
  

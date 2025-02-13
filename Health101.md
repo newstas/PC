@@ -80,6 +80,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - YTMG3-N6DKC-DKB77-7M9GH-8HVX7 для редакции Home,
 - BT79Q-G7N6G-PGBYW-4YWX6-6F4BT для Home SL.
 
+Это значит, что что компьютер получил персональную цифроваю лицензию с сервера активации компании Microsoft. 
+При это, ключ продукта был заменен сервером.
 
 
 ## Скачать Windows 10 (ISO-файл)

@@ -84,6 +84,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 - **Выполнить:** <kbd>Windows</kbd> + <kbd>R</kbd> далее `slmgr.vbs /ato` - активация Windows (иногда помогает)
 
+Состояние лицензии лицензии **Licetse Status**:
+- Unlicensed
+- Licensed — имеет лицензию
+- Notification — срок ознакомительного использования окончен
+
 
 ## Скачать Windows 10 (ISO-файл)
 

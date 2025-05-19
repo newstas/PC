@@ -4,6 +4,11 @@
 
 [17 лучших Google шрифтов](https://hostenko.com/wpcafe/tutorials/17-luchshih-google-shriftov-i-kak-ih-ispolzovat-v-wordpress/)
 
+# Начертания "font-weight" и буквенные названия
+
+9 начертаний обычно помещаются от 100 до 900 через сотню, но с разными шрифтами всё может быть иначе.
+Кроме того, верстальщик имеет возможность назначать свои значения в font-face.
+
 - 100 – Thin || Hairline
 - 200 – Extra Light || Ultra Light || Thin
 - 300 – Light

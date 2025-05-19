@@ -9,15 +9,15 @@
 9 начертаний обычно помещаются от 100 до 900 через сотню, но с разными шрифтами всё может быть иначе.
 Кроме того, верстальщик имеет возможность назначать свои значения в font-face.
 
-- 100 – Thin || Hairline
-- 200 – Extra Light || Ultra Light || Thin
+- 100 – Thin / Hairline
+- 200 – Extra Light / Ultra Light / Thin
 - 300 – Light
-- 400 – Normal || Regular
+- 400 – Normal / Regular
 - 500 – Medium
-- 600 – Semi Bold || Demi Bold
+- 600 – Semi Bold / Demi Bold
 - 700 – Bold
-- 800 – Extra Bold || Ultra Bold || Heavy
-- 900 – Black || Heavy
+- 800 – Extra Bold / Ultra Bold / Heavy
+- 900 – Black / Heavy
 
 # Шрифты в системах MS Windows
 

@@ -4,6 +4,16 @@
 
 [17 лучших Google шрифтов](https://hostenko.com/wpcafe/tutorials/17-luchshih-google-shriftov-i-kak-ih-ispolzovat-v-wordpress/)
 
+- 100 – Thin || Hairline
+- 200 – Extra Light || Ultra Light || Thin
+- 300 – Light
+- 400 – Normal || Regular
+- 500 – Medium
+- 600 – Semi Bold || Demi Bold
+- 700 – Bold
+- 800 – Extra Bold || Ultra Bold || Heavy
+- 900 – Black || Heavy
+
 # Шрифты в системах MS Windows
 
 В системах MS Windows обычно используется несколько шрифтов, поставляемых вместе с системой – это:

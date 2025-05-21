@@ -139,8 +139,10 @@
 Монтсеррат - это популярный шрифт, современный и нешлифованный. Подходит 
 **для небольших текстов**, привносит разнообразие по сравнению с традиционными шрифтами.
 Следует иметь в виду, что в случае **больших текстов потребуется гораздо больше места**.
-— *google fonts*
+— *google fonts* 
+[Montserrat](https://fonts.google.com/specimen/Montserrat)
 [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=Montserrat)
+[Montserrat Underline](https://fonts.google.com/specimen/Montserrat+Underline)
 
 
 Похожие шрифты:

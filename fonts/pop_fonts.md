@@ -144,8 +144,8 @@
 **для небольших текстов**, привносит разнообразие по сравнению с традиционными шрифтами.
 Следует иметь в виду, что в случае **больших текстов потребуется гораздо больше места**.
 — *google fonts* 
-[Montserrat](https://fonts.google.com/specimen/Montserrat)
-[Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=Montserrat)
+[Montserrat](https://fonts.google.com/specimen/Montserrat) /
+[Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates?query=Montserrat) /
 [Montserrat Underline](https://fonts.google.com/specimen/Montserrat+Underline)
 
 

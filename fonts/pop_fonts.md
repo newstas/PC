@@ -1,3 +1,7 @@
+[Lorem ipsum](https://www.artlebedev.ru/kovodstvo/sections/67/)
+
+[Панграммы Лебедева](https://www.artlebedev.ru/kovodstvo/sections/33/)
+
 [Таблица сочетания шрифтов](https://pomelnikov.com/images/Uroki/Font-pairs/Font-pairs-Pomelnikov.pdf)
 
 [Сравнение семейств шрифтов от W3C](https://www.w3.org/Style/Examples/007/fonts.ru.html)

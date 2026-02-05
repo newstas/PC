@@ -264,3 +264,5 @@ DISM.exe /Online /Cleanup-Image /RestoreHealth /Source:C:\RepairSource\Windows /
 
 
 [Как проверить оперативную память компьютера](https://remontka.pro/test-ram/)
+
+[Синий экран KERNEL MODE HEAP CORRUPTION — причины и варианты решения](https://remontka.pro/kernel-mode-heap-corruption/)

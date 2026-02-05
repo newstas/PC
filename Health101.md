@@ -263,3 +263,4 @@ DISM.exe /Online /Cleanup-Image /RestoreHealth /Source:C:\RepairSource\Windows /
 системы и замены поврежденных файлов правильными версиями из кэша.
 
 
+[Как проверить оперативную память компьютера](https://remontka.pro/test-ram/)

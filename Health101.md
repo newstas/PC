@@ -358,7 +358,7 @@ pnputil /enum-devices /disconnected
 
 ### Вывести полный список установленных драйверов (включая системные) можно с помощью PowerShell:
 ```
-Get-WmiObject Win32_PnPSignedDriver | select DeviceName,InfName| 
+Get-WmiObject Win32_PnPSignedDriver | select DeviceName,InfName
 ```
 
 

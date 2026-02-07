@@ -303,7 +303,7 @@ pnputil /delete-driver <Published Name> /uninstall /force
 pnputil /delete-driver oem69.inf /uninstall /force
 ```
 **Важно:**
-> Но сначала находим в списке нужный драйвер с помщью команды `pnputil /enum-devices` (описание ниже) и запомните имя файла в формате `oem#.inf`.
+> Но сначала находим в списке нужный драйвер с помщью команды `pnputil /enum-devices` (описание ниже) и запоминаем имя файла в формате `oem#.inf`.
 
 
 ### `/delete-driver` синтаксис команды

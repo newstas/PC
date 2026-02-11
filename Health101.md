@@ -113,6 +113,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ## Скачать Windows 10 (ISO-файл)
 
+[Обновление на месте / In-Place Upgrade — для исправления большинства ошибок системы с сохранением данных, программ и настроек пользователя](https://remontka.pro/in-place-upgrade-windows/)
+
 [Скачать образ диска Windows 10 (ISO-файл) — сайт Microsoft](https://www.microsoft.com/ru-ru/software-download/windows10ISO)
 
 [Cкачать Windows 10 ISO — 5 способов](https://remontka.pro/download-windows-10-iso-microsoft/#microsoft)

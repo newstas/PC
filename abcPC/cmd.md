@@ -51,3 +51,8 @@ HID-compliant Optical Wheel Mouse (001)
 Logicool HID-Compliant Keyboard (106 keys)
 Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
 ```
+Посмотрите, что мешает войти в режим Сна - **выполните команду в PowerShell (администратор):**
+
+`powercfg -requests`
+
+Далее смотреть со статусом Выполнение. Если есть, то закрыть активность и проверить , что это ПО является причиной.

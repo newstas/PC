@@ -62,7 +62,7 @@ Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
 ```
 #### PowerShell
 
-Посмотрите, что мешает войти в режим Сна - **выполните команду в PowerShell (администратор):**
+Посмотрите, **что мешает войти в режим Сна** - выполните команду в PowerShell (администратор):
 
 `powercfg -requests`
 

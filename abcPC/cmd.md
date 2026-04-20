@@ -98,6 +98,21 @@ SYSTEM:
 powercfg -requestsoverride <тип_вызывающего_объекта> <имя> <запрос1> <запрос2>....
 ```
 - **Типы объектов:** PROCESS (процесс), SERVICE (служба), DRIVER (драйвер).
+
+- **Использование:**
+```
+POWERCFG -REQUESTSOVERRIDE < ТИП_ВЫЗЫВАЮЩЕГО_ОБЪЕКТА > < ИМЯ > < ЗАПРОС > 
+              < ТИП_ВЫЗЫВАЮЩЕГО_ОБЪЕКТА >    Указывается один следующих типов вызывающих объектов:
+                               PROCESS (процесс), SERVICE (служба), DRIVER (драйвер). Тип объекта возвращается 
+                               командой POWERCFG -REQUESTS. 
+              < ИМЯ >           Указывается имя вызывающего объекта. Это имя 
+                               возвращается командой POWERCFG -REQUESTS.
+              < ЗАПРОС >        Указывается один или несколько из следующих типов
+                               запросов питания: Display, System, Awaymode.
+              Пример:
+                  POWERCFG -REQUESTSOVERRIDE PROCESS wmplayer.exe Display System
+```
+                  
 - **Пример:** Чтобы заставить компьютер засыпать, даже если работает видеоплеер vlc.exe, введите команду от имени администратора:
 ```
 powercfg -requestsoverride DRIVER "USB Audio Device" SYSTEM

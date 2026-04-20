@@ -79,7 +79,7 @@ powercfg -requests
 SYSTEM:
 [DRIVER] USB Audio Device (USB\VID_1395&PID_0024&MI_00\8&51e117b&0&0000)
 Аудиопоток уже используется.
-[DRIVER] Устаревшая вызывающая сторона ядра // Legacy Kernel Caller SYSTEM
+[DRIVER] Устаревшая вызывающая сторона ядра // Legacy Kernel Caller
 ```
 Для исправления это ситуации прибегаем к следующей команде `powercfg -requestsoverride`
 
@@ -119,7 +119,7 @@ Legacy Kernel Caller SYSTEM
 ```
 - **Удаление переопределения:** Чтобы отменить правило, оставьте список запросов пустым:
 ```
-powercfg -requestsoverride PROCESS "vlc.exe"
+powercfg -requestsoverride  DRIVER "USB Audio Device"
 ```
 
 Команда полезна, когда, например, драйвер сетевой карты (srvnet) или браузер не дают экрану погаснуть, хотя активных действий не происходит.

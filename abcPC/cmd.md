@@ -103,7 +103,7 @@ powercfg -requestsoverride DRIVER "Legacy Kernel Caller" SYSTEM
 ```
 powercfg -requestsoverride
 ```
-*например появится:*
+*появится например:*
 ```
 [SERVICE]
 
@@ -113,7 +113,9 @@ powercfg -requestsoverride
 USB Audio Device SYSTEM
 Legacy Kernel Caller SYSTEM
 ```
-- **Удаление переопределения:** Чтобы отменить правило, оставьте список запросов пустым:
+
+**Удаление переопределения:** Чтобы отменить правило, оставьте список запросов пустым:
+
 ```
 powercfg -requestsoverride  DRIVER "USB Audio Device"
 ```
